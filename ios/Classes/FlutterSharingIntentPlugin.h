@@ -1,4 +1,4 @@
-#import <Flutter/Flutter.h>
+@import Flutter;
 
 @interface FlutterSharingIntentPlugin : NSObject<FlutterPlugin>
 @end
